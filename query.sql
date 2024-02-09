@@ -1,4 +1,4 @@
--- 1.1-- query para gerar base de dados de empresas de interesse
+-- 1.1--  query para gerar base de dados de empresas de interesse
 
 
 with cnpj as (
